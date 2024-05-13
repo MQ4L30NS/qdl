@@ -14,3 +14,4 @@ and libraries, found in e.g. the libxml2-dev and libusb-1.0.0-dev packages
 
 With these installed run:
   make
+  make install 
